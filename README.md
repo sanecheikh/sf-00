@@ -4,7 +4,7 @@
 
 `symfony new ceppic --webapp`
 
-- Créer un controller `Home` qui prend comme route `/`
+
 
 - Mettre en place `bootstrap css`
 
